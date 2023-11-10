@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-10 03:19:07</sys_created_on>
+        <sys_id>6677d42fc316b510c9a6e73599013138</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_188899_library_m_library_management.x_188899_library_m.library_management_user</sys_name>
+        <sys_package display_value="Library Management" source="x_188899_library_m">1595546bc352b510c9a6e73599013189</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library Management">1595546bc352b510c9a6e73599013189</sys_scope>
+        <sys_security_acl display_value="x_188899_library_m_library_management">a677d42fc316b510c9a6e73599013135</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_6677d42fc316b510c9a6e73599013138</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-10 03:19:07</sys_updated_on>
+        <sys_user_role display_value="x_188899_library_m.library_management_user" name="x_188899_library_m.library_management_user">a677dc6bc316b510c9a6e735990131f2</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
